@@ -1,0 +1,71 @@
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part3\FileUploadApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part3\FileUploadApi\bin\Debug\net8.0\appsettings.json
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part3\FileUploadApi\bin\Debug\net8.0\FileUploadApi.staticwebassets.endpoints.json
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part3\FileUploadApi\bin\Debug\net8.0\FileUploadApi.exe
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part3\FileUploadApi\bin\Debug\net8.0\FileUploadApi.deps.json
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part3\FileUploadApi\bin\Debug\net8.0\FileUploadApi.runtimeconfig.json
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part3\FileUploadApi\bin\Debug\net8.0\FileUploadApi.dll
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part3\FileUploadApi\bin\Debug\net8.0\FileUploadApi.pdb
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part3\FileUploadApi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part3\FileUploadApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part3\FileUploadApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part3\FileUploadApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part3\FileUploadApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part3\FileUploadApi\obj\Debug\net8.0\FileUploadApi.csproj.AssemblyReference.cache
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part3\FileUploadApi\obj\Debug\net8.0\FileUploadApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part3\FileUploadApi\obj\Debug\net8.0\FileUploadApi.AssemblyInfoInputs.cache
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part3\FileUploadApi\obj\Debug\net8.0\FileUploadApi.AssemblyInfo.cs
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part3\FileUploadApi\obj\Debug\net8.0\FileUploadApi.csproj.CoreCompileInputs.cache
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part3\FileUploadApi\obj\Debug\net8.0\FileUploadApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part3\FileUploadApi\obj\Debug\net8.0\FileUploadApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part3\FileUploadApi\obj\Debug\net8.0\scopedcss\bundle\FileUploadApi.styles.css
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part3\FileUploadApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part3\FileUploadApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part3\FileUploadApi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part3\FileUploadApi\obj\Debug\net8.0\staticwebassets\msbuild.FileUploadApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part3\FileUploadApi\obj\Debug\net8.0\staticwebassets\msbuild.FileUploadApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part3\FileUploadApi\obj\Debug\net8.0\staticwebassets\msbuild.build.FileUploadApi.props
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part3\FileUploadApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.FileUploadApi.props
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part3\FileUploadApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.FileUploadApi.props
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part3\FileUploadApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part3\FileUploadApi\obj\Debug\net8.0\FileUplo.56E1CED4.Up2Date
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part3\FileUploadApi\obj\Debug\net8.0\FileUploadApi.dll
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part3\FileUploadApi\obj\Debug\net8.0\refint\FileUploadApi.dll
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part3\FileUploadApi\obj\Debug\net8.0\FileUploadApi.pdb
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part3\FileUploadApi\obj\Debug\net8.0\FileUploadApi.genruntimeconfig.cache
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part3\FileUploadApi\obj\Debug\net8.0\ref\FileUploadApi.dll
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part3\FileUploadApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part3\FileUploadApi\bin\Debug\net8.0\appsettings.json
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part3\FileUploadApi\bin\Debug\net8.0\FileUploadApi.staticwebassets.endpoints.json
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part3\FileUploadApi\bin\Debug\net8.0\FileUploadApi.exe
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part3\FileUploadApi\bin\Debug\net8.0\FileUploadApi.deps.json
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part3\FileUploadApi\bin\Debug\net8.0\FileUploadApi.runtimeconfig.json
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part3\FileUploadApi\bin\Debug\net8.0\FileUploadApi.dll
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part3\FileUploadApi\bin\Debug\net8.0\FileUploadApi.pdb
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part3\FileUploadApi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part3\FileUploadApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part3\FileUploadApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part3\FileUploadApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part3\FileUploadApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part3\FileUploadApi\obj\Debug\net8.0\FileUploadApi.csproj.AssemblyReference.cache
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part3\FileUploadApi\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part3\FileUploadApi\obj\Debug\net8.0\FileUploadApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part3\FileUploadApi\obj\Debug\net8.0\FileUploadApi.AssemblyInfoInputs.cache
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part3\FileUploadApi\obj\Debug\net8.0\FileUploadApi.AssemblyInfo.cs
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part3\FileUploadApi\obj\Debug\net8.0\FileUploadApi.csproj.CoreCompileInputs.cache
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part3\FileUploadApi\obj\Debug\net8.0\FileUploadApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part3\FileUploadApi\obj\Debug\net8.0\FileUploadApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part3\FileUploadApi\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part3\FileUploadApi\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part3\FileUploadApi\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part3\FileUploadApi\obj\Debug\net8.0\scopedcss\bundle\FileUploadApi.styles.css
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part3\FileUploadApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part3\FileUploadApi\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part3\FileUploadApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part3\FileUploadApi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part3\FileUploadApi\obj\Debug\net8.0\FileUplo.56E1CED4.Up2Date
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part3\FileUploadApi\obj\Debug\net8.0\FileUploadApi.dll
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part3\FileUploadApi\obj\Debug\net8.0\refint\FileUploadApi.dll
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part3\FileUploadApi\obj\Debug\net8.0\FileUploadApi.pdb
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part3\FileUploadApi\obj\Debug\net8.0\FileUploadApi.genruntimeconfig.cache
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part3\FileUploadApi\obj\Debug\net8.0\ref\FileUploadApi.dll

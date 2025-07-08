@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anasz\\OneDrive\\Desktop\\oday\\asp-test-main (1)\\asp-test-main\\part2\\q6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anasz\\OneDrive\\Desktop\\oday\\asp-test-main (1)\\asp-test-main\\part2\\q6\\DistinctiveSorterApp\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DistinctiveSorterApp\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anasz\\OneDrive\\Desktop\\oday\\asp-test-main (1)\\asp-test-main\\part2\\q6\\DistinctiveSorterApp\\DistinctiveSorter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DistinctiveSorterApp\\DistinctiveSorter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anasz\\OneDrive\\Desktop\\oday\\asp-test-main (1)\\asp-test-main\\part2\\q6\\DistinctiveSorter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DistinctiveSorter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anasz\\OneDrive\\Desktop\\oday\\asp-test-main (1)\\asp-test-main\\part2\\q6\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DistinctiveSorter.cs",
+              "DocumentMoniker": "C:\\Users\\anasz\\OneDrive\\Desktop\\oday\\asp-test-main (1)\\asp-test-main\\part2\\q6\\DistinctiveSorterApp\\DistinctiveSorter.cs",
+              "RelativeDocumentMoniker": "DistinctiveSorterApp\\DistinctiveSorter.cs",
+              "ToolTip": "C:\\Users\\anasz\\OneDrive\\Desktop\\oday\\asp-test-main (1)\\asp-test-main\\part2\\q6\\DistinctiveSorterApp\\DistinctiveSorter.cs",
+              "RelativeToolTip": "DistinctiveSorterApp\\DistinctiveSorter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T11:21:14.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anasz\\OneDrive\\Desktop\\oday\\asp-test-main (1)\\asp-test-main\\part2\\q6\\DistinctiveSorterApp\\Program.cs",
+              "RelativeDocumentMoniker": "DistinctiveSorterApp\\Program.cs",
+              "ToolTip": "C:\\Users\\anasz\\OneDrive\\Desktop\\oday\\asp-test-main (1)\\asp-test-main\\part2\\q6\\DistinctiveSorterApp\\Program.cs",
+              "RelativeToolTip": "DistinctiveSorterApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T11:20:59.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anasz\\OneDrive\\Desktop\\oday\\asp-test-main (1)\\asp-test-main\\part2\\q6\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\anasz\\OneDrive\\Desktop\\oday\\asp-test-main (1)\\asp-test-main\\part2\\q6\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T11:20:07.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DistinctiveSorter.cs",
+              "DocumentMoniker": "C:\\Users\\anasz\\OneDrive\\Desktop\\oday\\asp-test-main (1)\\asp-test-main\\part2\\q6\\DistinctiveSorter.cs",
+              "RelativeDocumentMoniker": "DistinctiveSorter.cs",
+              "ToolTip": "C:\\Users\\anasz\\OneDrive\\Desktop\\oday\\asp-test-main (1)\\asp-test-main\\part2\\q6\\DistinctiveSorter.cs",
+              "RelativeToolTip": "DistinctiveSorter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T11:20:00.469Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

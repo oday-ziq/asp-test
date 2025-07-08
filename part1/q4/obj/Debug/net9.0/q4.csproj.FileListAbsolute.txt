@@ -1,0 +1,42 @@
+C:\Users\mass2\Downloads\New folder (3)\q4\bin\Debug\net9.0\q4.exe
+C:\Users\mass2\Downloads\New folder (3)\q4\bin\Debug\net9.0\q4.deps.json
+C:\Users\mass2\Downloads\New folder (3)\q4\bin\Debug\net9.0\q4.runtimeconfig.json
+C:\Users\mass2\Downloads\New folder (3)\q4\bin\Debug\net9.0\q4.dll
+C:\Users\mass2\Downloads\New folder (3)\q4\bin\Debug\net9.0\q4.pdb
+C:\Users\mass2\Downloads\New folder (3)\q4\obj\Debug\net9.0\q4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mass2\Downloads\New folder (3)\q4\obj\Debug\net9.0\q4.AssemblyInfoInputs.cache
+C:\Users\mass2\Downloads\New folder (3)\q4\obj\Debug\net9.0\q4.AssemblyInfo.cs
+C:\Users\mass2\Downloads\New folder (3)\q4\obj\Debug\net9.0\q4.csproj.CoreCompileInputs.cache
+C:\Users\mass2\Downloads\New folder (3)\q4\obj\Debug\net9.0\q4.dll
+C:\Users\mass2\Downloads\New folder (3)\q4\obj\Debug\net9.0\refint\q4.dll
+C:\Users\mass2\Downloads\New folder (3)\q4\obj\Debug\net9.0\q4.pdb
+C:\Users\mass2\Downloads\New folder (3)\q4\obj\Debug\net9.0\q4.genruntimeconfig.cache
+C:\Users\mass2\Downloads\New folder (3)\q4\obj\Debug\net9.0\ref\q4.dll
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part1\q4\bin\Debug\net9.0\q4.exe
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part1\q4\bin\Debug\net9.0\q4.deps.json
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part1\q4\bin\Debug\net9.0\q4.runtimeconfig.json
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part1\q4\bin\Debug\net9.0\q4.dll
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part1\q4\bin\Debug\net9.0\q4.pdb
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part1\q4\obj\Debug\net9.0\q4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part1\q4\obj\Debug\net9.0\q4.AssemblyInfoInputs.cache
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part1\q4\obj\Debug\net9.0\q4.AssemblyInfo.cs
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part1\q4\obj\Debug\net9.0\q4.csproj.CoreCompileInputs.cache
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part1\q4\obj\Debug\net9.0\q4.dll
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part1\q4\obj\Debug\net9.0\refint\q4.dll
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part1\q4\obj\Debug\net9.0\q4.pdb
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part1\q4\obj\Debug\net9.0\q4.genruntimeconfig.cache
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part1\q4\obj\Debug\net9.0\ref\q4.dll
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part1\q4\bin\Debug\net9.0\q4.exe
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part1\q4\bin\Debug\net9.0\q4.deps.json
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part1\q4\bin\Debug\net9.0\q4.runtimeconfig.json
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part1\q4\bin\Debug\net9.0\q4.dll
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part1\q4\bin\Debug\net9.0\q4.pdb
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part1\q4\obj\Debug\net9.0\q4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part1\q4\obj\Debug\net9.0\q4.AssemblyInfoInputs.cache
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part1\q4\obj\Debug\net9.0\q4.AssemblyInfo.cs
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part1\q4\obj\Debug\net9.0\q4.csproj.CoreCompileInputs.cache
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part1\q4\obj\Debug\net9.0\q4.dll
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part1\q4\obj\Debug\net9.0\refint\q4.dll
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part1\q4\obj\Debug\net9.0\q4.pdb
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part1\q4\obj\Debug\net9.0\q4.genruntimeconfig.cache
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part1\q4\obj\Debug\net9.0\ref\q4.dll

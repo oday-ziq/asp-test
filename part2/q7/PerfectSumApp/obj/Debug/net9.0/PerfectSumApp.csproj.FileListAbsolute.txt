@@ -1,0 +1,28 @@
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part2\q7\PerfectSumApp\bin\Debug\net9.0\PerfectSumApp.exe
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part2\q7\PerfectSumApp\bin\Debug\net9.0\PerfectSumApp.deps.json
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part2\q7\PerfectSumApp\bin\Debug\net9.0\PerfectSumApp.runtimeconfig.json
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part2\q7\PerfectSumApp\bin\Debug\net9.0\PerfectSumApp.dll
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part2\q7\PerfectSumApp\bin\Debug\net9.0\PerfectSumApp.pdb
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part2\q7\PerfectSumApp\obj\Debug\net9.0\PerfectSumApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part2\q7\PerfectSumApp\obj\Debug\net9.0\PerfectSumApp.AssemblyInfoInputs.cache
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part2\q7\PerfectSumApp\obj\Debug\net9.0\PerfectSumApp.AssemblyInfo.cs
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part2\q7\PerfectSumApp\obj\Debug\net9.0\PerfectSumApp.csproj.CoreCompileInputs.cache
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part2\q7\PerfectSumApp\obj\Debug\net9.0\PerfectSumApp.dll
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part2\q7\PerfectSumApp\obj\Debug\net9.0\refint\PerfectSumApp.dll
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part2\q7\PerfectSumApp\obj\Debug\net9.0\PerfectSumApp.pdb
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part2\q7\PerfectSumApp\obj\Debug\net9.0\PerfectSumApp.genruntimeconfig.cache
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part2\q7\PerfectSumApp\obj\Debug\net9.0\ref\PerfectSumApp.dll
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part2\q7\PerfectSumApp\bin\Debug\net9.0\PerfectSumApp.exe
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part2\q7\PerfectSumApp\bin\Debug\net9.0\PerfectSumApp.deps.json
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part2\q7\PerfectSumApp\bin\Debug\net9.0\PerfectSumApp.runtimeconfig.json
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part2\q7\PerfectSumApp\bin\Debug\net9.0\PerfectSumApp.dll
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part2\q7\PerfectSumApp\bin\Debug\net9.0\PerfectSumApp.pdb
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part2\q7\PerfectSumApp\obj\Debug\net9.0\PerfectSumApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part2\q7\PerfectSumApp\obj\Debug\net9.0\PerfectSumApp.AssemblyInfoInputs.cache
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part2\q7\PerfectSumApp\obj\Debug\net9.0\PerfectSumApp.AssemblyInfo.cs
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part2\q7\PerfectSumApp\obj\Debug\net9.0\PerfectSumApp.csproj.CoreCompileInputs.cache
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part2\q7\PerfectSumApp\obj\Debug\net9.0\PerfectSumApp.dll
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part2\q7\PerfectSumApp\obj\Debug\net9.0\refint\PerfectSumApp.dll
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part2\q7\PerfectSumApp\obj\Debug\net9.0\PerfectSumApp.pdb
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part2\q7\PerfectSumApp\obj\Debug\net9.0\PerfectSumApp.genruntimeconfig.cache
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part2\q7\PerfectSumApp\obj\Debug\net9.0\ref\PerfectSumApp.dll

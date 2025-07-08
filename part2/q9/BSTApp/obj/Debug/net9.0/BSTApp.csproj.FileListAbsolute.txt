@@ -1,0 +1,28 @@
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part2\q9\BSTApp\obj\Debug\net9.0\BSTApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part2\q9\BSTApp\obj\Debug\net9.0\BSTApp.AssemblyInfoInputs.cache
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part2\q9\BSTApp\obj\Debug\net9.0\BSTApp.AssemblyInfo.cs
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part2\q9\BSTApp\obj\Debug\net9.0\BSTApp.csproj.CoreCompileInputs.cache
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part2\q9\BSTApp\bin\Debug\net9.0\BSTApp.exe
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part2\q9\BSTApp\bin\Debug\net9.0\BSTApp.deps.json
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part2\q9\BSTApp\bin\Debug\net9.0\BSTApp.runtimeconfig.json
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part2\q9\BSTApp\bin\Debug\net9.0\BSTApp.dll
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part2\q9\BSTApp\bin\Debug\net9.0\BSTApp.pdb
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part2\q9\BSTApp\obj\Debug\net9.0\BSTApp.dll
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part2\q9\BSTApp\obj\Debug\net9.0\refint\BSTApp.dll
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part2\q9\BSTApp\obj\Debug\net9.0\BSTApp.pdb
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part2\q9\BSTApp\obj\Debug\net9.0\BSTApp.genruntimeconfig.cache
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part2\q9\BSTApp\obj\Debug\net9.0\ref\BSTApp.dll
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part2\q9\BSTApp\bin\Debug\net9.0\BSTApp.exe
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part2\q9\BSTApp\bin\Debug\net9.0\BSTApp.deps.json
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part2\q9\BSTApp\bin\Debug\net9.0\BSTApp.runtimeconfig.json
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part2\q9\BSTApp\bin\Debug\net9.0\BSTApp.dll
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part2\q9\BSTApp\bin\Debug\net9.0\BSTApp.pdb
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part2\q9\BSTApp\obj\Debug\net9.0\BSTApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part2\q9\BSTApp\obj\Debug\net9.0\BSTApp.AssemblyInfoInputs.cache
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part2\q9\BSTApp\obj\Debug\net9.0\BSTApp.AssemblyInfo.cs
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part2\q9\BSTApp\obj\Debug\net9.0\BSTApp.csproj.CoreCompileInputs.cache
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part2\q9\BSTApp\obj\Debug\net9.0\BSTApp.dll
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part2\q9\BSTApp\obj\Debug\net9.0\refint\BSTApp.dll
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part2\q9\BSTApp\obj\Debug\net9.0\BSTApp.pdb
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part2\q9\BSTApp\obj\Debug\net9.0\BSTApp.genruntimeconfig.cache
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part2\q9\BSTApp\obj\Debug\net9.0\ref\BSTApp.dll

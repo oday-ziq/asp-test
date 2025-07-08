@@ -1,0 +1,38 @@
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part3\FileUploaderClient\bin\Debug\net8.0-windows\FileUploaderClient.exe
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part3\FileUploaderClient\bin\Debug\net8.0-windows\FileUploaderClient.deps.json
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part3\FileUploaderClient\bin\Debug\net8.0-windows\FileUploaderClient.runtimeconfig.json
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part3\FileUploaderClient\bin\Debug\net8.0-windows\FileUploaderClient.dll
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part3\FileUploaderClient\bin\Debug\net8.0-windows\FileUploaderClient.pdb
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part3\FileUploaderClient\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part3\FileUploaderClient\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part3\FileUploaderClient\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part3\FileUploaderClient\obj\Debug\net8.0-windows\FileUploaderClient_MarkupCompile.cache
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part3\FileUploaderClient\obj\Debug\net8.0-windows\FileUploaderClient.g.resources
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part3\FileUploaderClient\obj\Debug\net8.0-windows\FileUploaderClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part3\FileUploaderClient\obj\Debug\net8.0-windows\FileUploaderClient.AssemblyInfoInputs.cache
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part3\FileUploaderClient\obj\Debug\net8.0-windows\FileUploaderClient.AssemblyInfo.cs
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part3\FileUploaderClient\obj\Debug\net8.0-windows\FileUploaderClient.csproj.CoreCompileInputs.cache
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part3\FileUploaderClient\obj\Debug\net8.0-windows\FileUploaderClient.dll
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part3\FileUploaderClient\obj\Debug\net8.0-windows\refint\FileUploaderClient.dll
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part3\FileUploaderClient\obj\Debug\net8.0-windows\FileUploaderClient.pdb
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part3\FileUploaderClient\obj\Debug\net8.0-windows\FileUploaderClient.genruntimeconfig.cache
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part3\FileUploaderClient\obj\Debug\net8.0-windows\ref\FileUploaderClient.dll
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part3\FileUploaderClient\bin\Debug\net8.0-windows\FileUploaderClient.exe
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part3\FileUploaderClient\bin\Debug\net8.0-windows\FileUploaderClient.deps.json
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part3\FileUploaderClient\bin\Debug\net8.0-windows\FileUploaderClient.runtimeconfig.json
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part3\FileUploaderClient\bin\Debug\net8.0-windows\FileUploaderClient.dll
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part3\FileUploaderClient\bin\Debug\net8.0-windows\FileUploaderClient.pdb
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part3\FileUploaderClient\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part3\FileUploaderClient\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part3\FileUploaderClient\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part3\FileUploaderClient\obj\Debug\net8.0-windows\FileUploaderClient_MarkupCompile.cache
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part3\FileUploaderClient\obj\Debug\net8.0-windows\FileUploaderClient.g.resources
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part3\FileUploaderClient\obj\Debug\net8.0-windows\FileUploaderClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part3\FileUploaderClient\obj\Debug\net8.0-windows\FileUploaderClient.AssemblyInfoInputs.cache
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part3\FileUploaderClient\obj\Debug\net8.0-windows\FileUploaderClient.AssemblyInfo.cs
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part3\FileUploaderClient\obj\Debug\net8.0-windows\FileUploaderClient.csproj.CoreCompileInputs.cache
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part3\FileUploaderClient\obj\Debug\net8.0-windows\FileUploaderClient.dll
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part3\FileUploaderClient\obj\Debug\net8.0-windows\refint\FileUploaderClient.dll
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part3\FileUploaderClient\obj\Debug\net8.0-windows\FileUploaderClient.pdb
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part3\FileUploaderClient\obj\Debug\net8.0-windows\FileUploaderClient.genruntimeconfig.cache
+C:\Users\odayl\Downloads\asp-test-main\asp-test-main\part3\FileUploaderClient\obj\Debug\net8.0-windows\ref\FileUploaderClient.dll

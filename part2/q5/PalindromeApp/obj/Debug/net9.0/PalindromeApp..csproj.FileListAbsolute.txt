@@ -1,0 +1,14 @@
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part2\q5\PalindromeApp\bin\Debug\net9.0\PalindromeApp..exe
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part2\q5\PalindromeApp\bin\Debug\net9.0\PalindromeApp..deps.json
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part2\q5\PalindromeApp\bin\Debug\net9.0\PalindromeApp..runtimeconfig.json
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part2\q5\PalindromeApp\bin\Debug\net9.0\PalindromeApp..dll
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part2\q5\PalindromeApp\bin\Debug\net9.0\PalindromeApp..pdb
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part2\q5\PalindromeApp\obj\Debug\net9.0\PalindromeApp..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part2\q5\PalindromeApp\obj\Debug\net9.0\PalindromeApp..AssemblyInfoInputs.cache
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part2\q5\PalindromeApp\obj\Debug\net9.0\PalindromeApp..AssemblyInfo.cs
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part2\q5\PalindromeApp\obj\Debug\net9.0\PalindromeApp..csproj.CoreCompileInputs.cache
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part2\q5\PalindromeApp\obj\Debug\net9.0\PalindromeApp..dll
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part2\q5\PalindromeApp\obj\Debug\net9.0\refint\PalindromeApp..dll
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part2\q5\PalindromeApp\obj\Debug\net9.0\PalindromeApp..pdb
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part2\q5\PalindromeApp\obj\Debug\net9.0\PalindromeApp..genruntimeconfig.cache
+C:\Users\anasz\OneDrive\Desktop\oday\asp-test-main (1)\asp-test-main\part2\q5\PalindromeApp\obj\Debug\net9.0\ref\PalindromeApp..dll
